@@ -152,6 +152,7 @@
     <Folder Include="Views\Article\" />
     <Folder Include="Views\Editor\" />
     <Folder Include="Views\Tag\" />
+    <Folder Include="Views\Article\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Project.BLL\Project.BLL.csproj">
